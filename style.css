@@ -74,6 +74,9 @@ body::after {
   color: white;
   z-index: 1;
 }
+/* .container-card {
+  padding: ;
+} */
 .container .card .content p {
   font-size: 1.8em;
   color: white;
